@@ -1,2 +1,2 @@
 # pes-face-library
-PES Faces Center
+PES Faces Center by Offlinesmasher
